@@ -1,4 +1,4 @@
-# pdf_merger
+# PDF Merger
 
 Merge two or more PDFs
 
